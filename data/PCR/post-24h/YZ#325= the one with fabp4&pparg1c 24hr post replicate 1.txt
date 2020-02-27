@@ -1,0 +1,61 @@
+Target	Sample	Cq		
+Fabp4	CM	27.26	27.29	27.29
+Fabp4	CM	27.3		
+Fabp4	CM	27.31		
+Fabp4	DM	26.65	26.64	26.64
+Fabp4	DM	26.64		
+Fabp4	DM	26.62		
+Fabp4	DMSO	27.65	27.60	27.60
+Fabp4	DMSO	27.63		
+Fabp4	DMSO	27.53		
+Fabp4	GW	27.13	27.11	27.11
+Fabp4	GW	27.05		
+Fabp4	GW	27.15		
+Fabp4	Rosi	25.19	25.10	25.10
+Fabp4	Rosi	25.04		
+Fabp4	Rosi	25.07		
+Fabp4	Rosi+GW	26.12	26.03	26.03
+Fabp4	Rosi+GW	25.87		
+Fabp4	Rosi+GW	26.09		
+Fabp4	TXN	28.05	27.95	27.95
+Fabp4	TXN	27.84		
+Fabp4	TXN	27.97		
+Fabp4	TXN+Rosi	26.15	26.17	26.17
+Fabp4	TXN+Rosi	26.12		
+Fabp4	TXN+Rosi	26.25		
+Fabp4	XN	28.18	28.13	28.13
+Fabp4	XN	28.1		
+Fabp4	XN	28.12		
+Fabp4	XN+Rosi	27.22	27.20	27.20
+Fabp4	XN+Rosi	27.15		
+Fabp4	XN+Rosi	27.24		
+Pparg1c	CM	28.95	28.90	28.90
+Pparg1c	CM	28.85		
+Pparg1c	CM	28.9		
+Pparg1c	DM	28.71	28.69	28.69
+Pparg1c	DM	28.78		
+Pparg1c	DM	28.57		
+Pparg1c	DMSO	29.55	29.57	29.57
+Pparg1c	DMSO	29.59		
+Pparg1c	DMSO	29.56		
+Pparg1c	GW	29.12	29.01	29.01
+Pparg1c	GW	28.99		
+Pparg1c	GW	28.91		
+Pparg1c	Rosi	28.59	28.50	28.50
+Pparg1c	Rosi	28.4		
+Pparg1c	Rosi	28.52		
+Pparg1c	Rosi+GW	29.28	29.09	29.09
+Pparg1c	Rosi+GW	29.15		
+Pparg1c	Rosi+GW	28.84		
+Pparg1c	TXN	29.16	29.16	29.16
+Pparg1c	TXN	29.19		
+Pparg1c	TXN	29.13		
+Pparg1c	TXN+Rosi	28.71	28.64	28.64
+Pparg1c	TXN+Rosi	28.65		
+Pparg1c	TXN+Rosi	28.56		
+Pparg1c	XN	31.35	31.32	31.32
+Pparg1c	XN	31.35		
+Pparg1c	XN	31.27		
+Pparg1c	XN+Rosi	30.82	30.68	30.68
+Pparg1c	XN+Rosi	30.72		
+Pparg1c	XN+Rosi	30.5		

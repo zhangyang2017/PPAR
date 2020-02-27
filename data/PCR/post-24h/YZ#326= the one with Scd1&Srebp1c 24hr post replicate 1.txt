@@ -1,0 +1,61 @@
+Target	Sample	Cq		
+Scd1	CM	26.27	26.04	
+Scd1	CM	25.91		
+Scd1	CM	25.93		
+Scd1	DM	23.36	23.32	
+Scd1	DM	23.32		
+Scd1	DM	23.29		
+Scd1	DMSO	23.73	23.71	
+Scd1	DMSO	23.74		
+Scd1	DMSO	23.65		
+Scd1	GW	23.26	23.22	
+Scd1	GW	23.12		
+Scd1	GW	23.27		
+Scd1	Rosi	23.25	23.14	
+Scd1	Rosi	23.06		
+Scd1	Rosi	23.1		
+Scd1	Rosi+GW	23.59	23.57	
+Scd1	Rosi+GW	23.51		
+Scd1	Rosi+GW	23.61		
+Scd1	TXN	23.88	23.84	
+Scd1	TXN	23.76		
+Scd1	TXN	23.88		
+Scd1	TXN+Rosi	23.73	23.73	
+Scd1	TXN+Rosi	23.65		
+Scd1	TXN+Rosi	23.8		
+Scd1	XN	24.62	24.62	
+Scd1	XN	24.55		
+Scd1	XN	24.69		
+Scd1	XN+Rosi	24.41	24.41	
+Scd1	XN+Rosi	24.45		
+Scd1	XN+Rosi	24.38		
+Srebp1c	CM	26.41	26.43	
+Srebp1c	CM	26.44		
+Srebp1c	CM	26.44		
+Srebp1c	DM	24.79	24.64	
+Srebp1c	DM	24.68		
+Srebp1c	DM	24.46		
+Srebp1c	DMSO	25.13	25.08	
+Srebp1c	DMSO	25.07		
+Srebp1c	DMSO	25.04		
+Srebp1c	GW	24.79	24.72	
+Srebp1c	GW	24.72		
+Srebp1c	GW	24.66		
+Srebp1c	Rosi	24.69	24.66	
+Srebp1c	Rosi	24.55		
+Srebp1c	Rosi	24.73		
+Srebp1c	Rosi+GW	25.07	25.00	
+Srebp1c	Rosi+GW	25.04		
+Srebp1c	Rosi+GW	24.9		
+Srebp1c	TXN	26.23	26.21	
+Srebp1c	TXN	26.24		
+Srebp1c	TXN	26.16		
+Srebp1c	TXN+Rosi	26.13	26.01	
+Srebp1c	TXN+Rosi	26.01		
+Srebp1c	TXN+Rosi	25.89		
+Srebp1c	XN	26.25	26.23	
+Srebp1c	XN	26.34		
+Srebp1c	XN	26.11		
+Srebp1c	XN+Rosi	26	25.95	
+Srebp1c	XN+Rosi	25.92		
+Srebp1c	XN+Rosi	25.92		

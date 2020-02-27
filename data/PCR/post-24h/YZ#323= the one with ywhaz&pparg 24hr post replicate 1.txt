@@ -1,0 +1,82 @@
+File Name	YZ#323= the one with ywhaz&pparg 24hr post replicate 1.pcrd		
+Created By User	admin		
+Notes	YZ#323= the one with ywhaz&pparg 24hr post replicate 1		
+ID			
+Run Started	2/26/2020 11:33:25 AM UTC -08:00		
+Run Ended	2/26/2020 12:34:27 PM UTC -08:00		
+Sample Vol	20		
+Lid Temp	105		
+Protocol File Name	2 step camp cg shorter.prcl		
+Plate Setup File Name	ppar.pltd		
+Base Serial Number	CT032820		
+Optical Head Serial Number	785BR4255		
+CFX Manager Version	3.0.1224.1015. 		
+			
+Well group	All Wells		
+Amplification step	3		
+Melt step			
+			
+			
+Well	Target	Sample	Cq
+A01	ywhaz	CM	27.09
+A02	ywhaz	DM	25.04
+A03	ywhaz	DMSO	25.55
+A04	ywhaz	Rosi	25.15
+A05	ywhaz	GW	25.18
+A06	ywhaz	Rosi+GW	25.45
+A07	ywhaz	XN	25.5
+A08	ywhaz	TXN	25.97
+A09	ywhaz	XN+Rosi	24.82
+A10	ywhaz	TXN+Rosi	25.51
+B01	ywhaz	CM	26.24
+B02	ywhaz	DM	24.95
+B03	ywhaz	DMSO	25.39
+B04	ywhaz	Rosi	24.85
+B05	ywhaz	GW	24.86
+B06	ywhaz	Rosi+GW	25.2
+B07	ywhaz	XN	25.19
+B08	ywhaz	TXN	25.64
+B09	ywhaz	XN+Rosi	24.75
+B10	ywhaz	TXN+Rosi	25.21
+C01	ywhaz	CM	26.23
+C02	ywhaz	DM	24.77
+C03	ywhaz	DMSO	25.2
+C04	ywhaz	Rosi	24.68
+C05	ywhaz	GW	25.03
+C06	ywhaz	Rosi+GW	25.33
+C07	ywhaz	XN	25.33
+C08	ywhaz	TXN	25.73
+C09	ywhaz	XN+Rosi	24.75
+C10	ywhaz	TXN+Rosi	25.58
+E01	pparg	CM	25.86
+E02	pparg	DM	25.35
+E03	pparg	DMSO	26.09
+E04	pparg	Rosi	25.62
+E05	pparg	GW	25.57
+E06	pparg	Rosi+GW	26.2
+E07	pparg	XN	27.51
+E08	pparg	TXN	27.28
+E09	pparg	XN+Rosi	27.01
+E10	pparg	TXN+Rosi	27.1
+F01	pparg	CM	25.7
+F02	pparg	DM	25.3
+F03	pparg	DMSO	26.09
+F04	pparg	Rosi	25.59
+F05	pparg	GW	25.46
+F06	pparg	Rosi+GW	26.13
+F07	pparg	XN	27.66
+F08	pparg	TXN	27.28
+F09	pparg	XN+Rosi	27.02
+F10	pparg	TXN+Rosi	26.98
+G01	pparg	CM	26.08
+G02	pparg	DM	25.21
+G03	pparg	DMSO	26.08
+G04	pparg	Rosi	25.64
+G05	pparg	GW	25.49
+G06	pparg	Rosi+GW	26.09
+G07	pparg	XN	27.31
+G08	pparg	TXN	27.19
+G09	pparg	XN+Rosi	26.98
+G10	pparg	TXN+Rosi	26.95
+H11	ywhaz		N/A
+H12	ywhaz		37.23
