@@ -8,3 +8,4 @@ generateFigure: plot
 
 plot: $(PLOT_SRC)
 	$(PLOT_EXE)
+	rm -f Rplots.pdf
