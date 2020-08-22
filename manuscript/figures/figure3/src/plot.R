@@ -83,21 +83,21 @@ label.df <- data.frame(vars = c("HFD+TXN", "LFD"),
 lvtag <- lvtag + geom_text(data = label.df, label = c("**", "**"), color='red', size = 12)
 
 
-plaTAG <- ggplot(data = data, aes(x = vars, y = total_TAG, fill = vars)) +
+lipidosis <- ggplot(data = data, aes(x = vars, y = lipidosis_area_pct, fill = vars)) +
 	stat_boxplot(geom = 'errorbar', linetype = 1, width = 0.2) +
 	geom_boxplot(outlier.shape = NA) +
 	scale_fill_manual(values = mycolor_alpha) +
 	geom_jitter(shape = 20, size = 4, width = 0.2, height = 0.1) +
-	xlab(" ") + ylab("mg/dL") +
-	ggtitle("Plasma Triglyceride") +
+	xlab("") + ylab("% Area") +
+	ggtitle("Steatosis") +
 	theme_bw() +
 	theme_legend_free()
 
-label.df <- data.frame(vars = c("HFD+TXN"),
-                       total_TAG = c(42))
-plaTAG <- plaTAG + geom_text(data = label.df, label = c("**"), color='red', size = 12)
-plaTAG
+label.df <- data.frame(vars = c("HFD+HXN", "HFD+TXN"),
+                       lipidosis_area_pct = c(23,20))
+lipidosis <- lipidosis + geom_text(data = label.df, label = c("*", "**"), color='red', size = 12)
+
 
 graph2pdf(lvmass, file = "lvmass.pdf", width = 8, height = 7)
-graph2pdf(plaTAG, file = "plaTAG.pdf", width = 8, height = 7)
+graph2pdf(lipidosis, file = "lipidosis.pdf", width = 8, height = 7)
 graph2pdf(lvtag, file = "lvtag.pdf", width = 8, height = 7)
