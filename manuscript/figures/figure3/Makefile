@@ -4,4 +4,7 @@
 include config.mk
 
 ##generateFigure plot.R
-generateFigure: plot.R
+generateFigure: plot
+
+plot: $(PLOT_SRC)
+	$(PLOT_EXE)

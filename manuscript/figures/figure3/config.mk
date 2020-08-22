@@ -1,5 +1,4 @@
-DATADIR := ../data
-SRCDIR := ../src
+SRCDIR := ./src
 LANGUAGE=Rscript
 
 PLOT_SRC=$(SRCDIR)/plot.R

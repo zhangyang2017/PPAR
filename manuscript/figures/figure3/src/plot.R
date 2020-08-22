@@ -47,7 +47,7 @@ theme_legend = function(){
 
 
 
-data <- read.csv('phenome_dexa_update.csv')
+data <- read.csv('/Users/yangzhang/Box/ppar/PPAR/manuscript/figures/figure3/data/phenome_dexa_update.csv')
 data$Treatment <- as.factor(data$Treatment)
 data$vars <- factor(data$Treatment, levels = c("HFD", "HFD+LXN", "HFD+HXN", "HFD+TXN", "LFD"))
 
