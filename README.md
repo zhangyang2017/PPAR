@@ -1,4 +1,4 @@
-# Repo for manuscript "TXN, a Xanthohumol Derivative, Significantly Attenuates High-Fat Diet Induced Hepatic Steatosis In Vivo by Antagonizing PPARγ"
+# TXN, a Xanthohumol Derivative, Significantly Attenuates High-Fat Diet Induced Hepatic Steatosis In Vivo by Antagonizing PPARγ
 
 This repository contains data and scripts used in our recent manuscript.
 
