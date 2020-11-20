@@ -18,5 +18,6 @@ project
 
 ```
 ## Raw data availability
+- Raw RNAseq sequencing data has been uploaded to xxx.
 
 ## Citation
